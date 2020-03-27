@@ -20,10 +20,10 @@ yay -S networkmanager aircrack-ng rtl8821ce-dkms-git speedtest-cli wifite2-git w
 yay -S libreoffice-fresh flameshot grub-customizer neofetch youtube-dl vlc virtualbox lbry-app-bin nextcloud-client zaproxy telegram-desktop timeshift cronie qalculate-gtk
 
 # programming
-intellij-idea-community-edition netbeans python
+yay -S intellij-idea-community-edition netbeans python
 
 # browsers
 yay -S brave-bin chromium firefox
 
 # fonts
-noto-fonts noto-fonts-emoji ttf-bitstream-vera ttf-dejavu ttf-droid ttf-hack ttf-inconsolata ttf-indic-otf ttf-liberation ttf-ms-fonts ttf-vista-fonts
+yay -S noto-fonts noto-fonts-emoji ttf-bitstream-vera ttf-dejavu ttf-droid ttf-hack ttf-inconsolata ttf-indic-otf ttf-liberation ttf-ms-fonts ttf-vista-fonts
