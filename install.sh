@@ -4,7 +4,7 @@ pacman -Syu --noconfirm
 pacman -S alsa-plugins alsa-firmware dosfstools efibootmgr elisa ffmpeg grub linux-headers linux-lts linux-lts-headers man mesa powerdevil pulseaudio pulseaudio-alsa pulseaudio-qt sudo vim
 
 # KDE sweets
-pacman -S akregator ark dolphin dolphin-plugins kgpg gwenview kaddressbook kate kontact knotes konsole kdeconnect kdenetwork-meta kdenlive kexi kfind kmag kmail latte-dock plasma-nm okular plasma-desktop wayland
+pacman -S khotkeys akregator ark dolphin dolphin-plugins kgpg gwenview kaddressbook kate kontact knotes konsole kdeconnect kdenetwork-meta kdenlive kexi kfind kmag kmail latte-dock plasma-nm okular plasma-desktop wayland
 
 # yay !
 pacman -S git --noconfirm
