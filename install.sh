@@ -1,7 +1,9 @@
 pacman -Syu --noconfirm
 
 # basics & drivers
-pacman -S alsa-plugins alsa-firmware dosfstools efibootmgr elisa ffmpeg grub linux-headers linux-lts linux-lts-headers man mesa powerdevil pulseaudio pulseaudio-alsa pulseaudio-qt sudo vim
+pacman -S dosfstools efibootmgr elisa ffmpeg grub linux-headers linux-lts linux-lts-headers man mesa powerdevil sudo vim
+# Sound
+pacman -S alsa-plugins alsa-firmware plasma-pa pulseaudio pulseaudio-alsa pulseaudio-qt
 
 # KDE sweets
 pacman -S khotkeys akregator ark dolphin dolphin-plugins kgpg gwenview kaddressbook kate kontact knotes konsole kdeconnect kdenetwork-meta kdenlive kexi kfind kmag kmail latte-dock plasma-nm okular plasma-desktop wayland
